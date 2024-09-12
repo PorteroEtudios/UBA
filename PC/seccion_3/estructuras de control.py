@@ -39,7 +39,6 @@ def division(dividendo, divisor):
 
 
 # Estructuras Iterativas:
-
 # mientras (condicion se cumple)
     # ejecutar ciertas acciones
 

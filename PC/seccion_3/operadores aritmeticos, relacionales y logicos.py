@@ -21,8 +21,8 @@
 
 # expresion 3)
 # (numero_2 < numero_4) and (numero_3 == numero_5) 
-#        True          and          False        -> False
+#          True         and          False        -> False
 
 # expresion 4)
 # (numero_1 + numero_5 == numero_2) or (numero_3 >= numero_4)
-#              False               or           False       -> False
+#              False                or          False        -> False
